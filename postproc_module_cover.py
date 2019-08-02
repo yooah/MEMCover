@@ -25,7 +25,7 @@ weight_type = "norm_combined"
 
 # input filenames
 module_file = "results/norm_modules.txt"
-scoresfile = "data/all_edge_score_norm_all_type_0.5_0.5.eda" # edge scores
+scoresfile = "data/all_edge_score_norm_0.5_0.5.eda" # edge scores
 
 # output filenames
 merged_module_file = "results/merged_modules.txt"

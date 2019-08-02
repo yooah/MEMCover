@@ -132,8 +132,8 @@ Directories/Files
 
         subtype.txt
 
-        all_edge_score_norm_all_type_0.5_0.5.eda
-        # edge scores file for all edge types
+        all_edge_score_norm_0.5_0.5.eda
+        # edge scores file for all edges
 
 
     mut_ex/
